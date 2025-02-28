@@ -1,0 +1,1 @@
+# Sozu Wallet Chrome Extension
